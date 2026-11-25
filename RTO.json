@@ -1,0 +1,16 @@
+{
+ "code": "M416",
+ "connector": "RTO-144",
+ "type": null,
+ "series": null,
+ "contacts": "",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M416/M416.rto144.json"
+ ]
+}
