@@ -36,7 +36,7 @@ Wiki page: [M416](../../../../PAGES/M416.md)
 - **Title block:** (351, 19)–(409, 29) mm: WBS WAAD-Beck
 - **Wiring (first pass):** 52 connected wire groups from 536 runs; labelled ends: 479 mm → Lasoi, R25-, Rrc, LeveL; 335 mm → WBS, WAAD-Beck; 201 mm → Lasoi, crg; 111 mm → 075, crg, 2r0k, 0.75; 101 mm → AIlnov
 
-Every curve, box, word and wire group: [1973 - 416-02-001 - CUE AMPLIFIER SCHEMATIC - DRN DGS - ISS 2 (traced).json](../SCHEMATICS/1973%20-%20416-02-001%20-%20CUE%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DGS%20-%20ISS%202%20(traced).json) (the CAD file: `1973 - 416-02-001 - CUE AMPLIFIER SCHEMATIC - DRN DGS - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 416-02-001 - CUE AMPLIFIER SCHEMATIC - DRN DGS - ISS 2 (traced).json](../SCHEMATICS/1973%20-%20416-02-001%20-%20CUE%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DGS%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1973 - 416-02-001 - CUE AMPLIFIER SCHEMATIC - DRN DGS - ISS 2 (traced).dxf`).
 
 ## Full text
 

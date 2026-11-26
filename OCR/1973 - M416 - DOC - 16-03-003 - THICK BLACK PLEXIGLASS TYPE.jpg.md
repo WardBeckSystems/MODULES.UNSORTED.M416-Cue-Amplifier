@@ -29,7 +29,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 120 in 64 lines: 6.625 · 250 · 187 · 2 . 88 · I.06 · HOLE 4-40 UNC X * (5 DEEP · FRom BehinD · 81 · 69 · 2 HoLes "128 DIA C'SK.AT 82 To . 23 DIA · notes · 23
 - **Title block:** (136, 6)–(372, 58) mm: Iss MOD  ICKD_ · USED ON · MATL _ · B 416-03-003 24 Thick BLACK · WBS WARD-BECK · PLEXIGLASS · Type P 9s · DRN: D.P s · FINISH · DATE 20 April 73 · M416 · CKD_ · ESCUTCHEON · SEE NOTEs SCALE · TOLS · 
 
-Every curve, box, word and wire group: [1973 - M416 - DOC - 16-03-003 - THICK BLACK PLEXIGLASS TYPE (traced).json](../MECHANICAL/1973%20-%20M416%20-%20DOC%20-%2016-03-003%20-%20THICK%20BLACK%20PLEXIGLASS%20TYPE%20(traced).json) (the CAD file: `1973 - M416 - DOC - 16-03-003 - THICK BLACK PLEXIGLASS TYPE (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M416 - DOC - 16-03-003 - THICK BLACK PLEXIGLASS TYPE (traced).json](../MECHANICAL/1973%20-%20M416%20-%20DOC%20-%2016-03-003%20-%20THICK%20BLACK%20PLEXIGLASS%20TYPE%20%28traced%29.json) (the CAD file: `1973 - M416 - DOC - 16-03-003 - THICK BLACK PLEXIGLASS TYPE (traced).dxf`).
 
 ## Full text
 

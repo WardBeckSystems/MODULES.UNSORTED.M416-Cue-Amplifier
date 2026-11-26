@@ -38,7 +38,7 @@ Wiki page: [M416](../../../../PAGES/M416.md)
 - **Words (OCR):** 117 in 63 lines: 6.625 · 250 · 187 · 2 . 88 · HOLE 4-40 UNC X * (5 DEEP · FROm BehinD · 69 · 2 HoLes "128 DIA C'SK.AT 82 To · 23 DIA · notes · 23 · REMOVE ALL BUrrs AND
 - **Title block:** (136, 6)–(372, 58) mm: Iss MOD  CKD_ · USED ON · MATL _ · B 416-03-003 24 Thick BLACK · WBS WARD-BECK · PLEXIGLAsS · Type P 95 · DRN: DP s · FINISH · DATE 20 April 73 · M416 · CKD · ESCUTCHEON · SEE NOTEs SCALE · TOLS · Oi0
 
-Every curve, box, word and wire group: [1973 - 416-03-002 - ESCUTCHEON - DRN DPS - ISS 1 (2) (traced).json](../MECHANICAL/1973%20-%20416-03-002%20-%20ESCUTCHEON%20-%20DRN%20DPS%20-%20ISS%201%20(2)%20(traced).json) (the CAD file: `1973 - 416-03-002 - ESCUTCHEON - DRN DPS - ISS 1 (2) (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 416-03-002 - ESCUTCHEON - DRN DPS - ISS 1 (2) (traced).json](../MECHANICAL/1973%20-%20416-03-002%20-%20ESCUTCHEON%20-%20DRN%20DPS%20-%20ISS%201%20%282%29%20%28traced%29.json) (the CAD file: `1973 - 416-03-002 - ESCUTCHEON - DRN DPS - ISS 1 (2) (traced).dxf`).
 
 ## Full text
 

@@ -21,7 +21,7 @@ Wiki page: [M416](../../../../PAGES/M416.md)
 - **Closed boxes:** 17
 - **Wiring (first pass):** 11 connected wire groups from 263 runs
 
-Every curve, box, word and wire group: [1973 - M416 - 412-02-003 - PLACES GIVEN ANGLES (traced).json](../SCHEMATICS/1973%20-%20M416%20-%20412-02-003%20-%20PLACES%20GIVEN%20ANGLES%20(traced).json) (the CAD file: `1973 - M416 - 412-02-003 - PLACES GIVEN ANGLES (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M416 - 412-02-003 - PLACES GIVEN ANGLES (traced).json](../SCHEMATICS/1973%20-%20M416%20-%20412-02-003%20-%20PLACES%20GIVEN%20ANGLES%20%28traced%29.json) (the CAD file: `1973 - M416 - 412-02-003 - PLACES GIVEN ANGLES (traced).dxf`).
 
 ## Full text
 

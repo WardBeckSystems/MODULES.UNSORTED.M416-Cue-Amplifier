@@ -34,7 +34,7 @@ Wiki page: [M416](../../../../PAGES/M416.md)
 - **Words (OCR):** 54 in 39 lines: 5.75 · 88 · 38 · 244 · HOLE 41 DIA- · HoLE · Notes: · 13 · DIa: · INSIDE BEnD · RAOI To Le · KoLes
 - **Title block:** (163, 6)–(413, 57) mm: Iss MOD_ CKD: · (064) · WBS WARD-BECK SYSTEMS LTD: · 00 | · Al ALLOY · DRN · DR? · HINISH · DATE 23.Apeil: 73 · SWiTch · MOuNTING PLATE · CKD_ · VIBRATE 420 · Gpit Clear ALODINE · SCALE · TOLS · 416-0
 
-Every curve, box, word and wire group: [1973 - 416-03-003 - SWITCH MOUNTING PLATE - DRN DPS - ISS 1 (traced).json](../MECHANICAL/1973%20-%20416-03-003%20-%20SWITCH%20MOUNTING%20PLATE%20-%20DRN%20DPS%20-%20ISS%201%20(traced).json) (the CAD file: `1973 - 416-03-003 - SWITCH MOUNTING PLATE - DRN DPS - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 416-03-003 - SWITCH MOUNTING PLATE - DRN DPS - ISS 1 (traced).json](../MECHANICAL/1973%20-%20416-03-003%20-%20SWITCH%20MOUNTING%20PLATE%20-%20DRN%20DPS%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1973 - 416-03-003 - SWITCH MOUNTING PLATE - DRN DPS - ISS 1 (traced).dxf`).
 
 ## Full text
 
