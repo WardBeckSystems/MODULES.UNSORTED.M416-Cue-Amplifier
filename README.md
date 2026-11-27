@@ -13,6 +13,22 @@ Ward-Beck Systems M416, 1973|6. Wiki page: [M416 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 39 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [1 topic](FORUM.md): what owners and technicians said about it.
+
+## Circuit description
+
+From [1973 - M416 - P4.jpg](MANUALS/1973%20-%20M416%20-%20P4.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M416 watt cue amplifier provides three 20K ohm bridging inputs each of Which is isolated from one another In addition, sun input is provided which is intended to receive the cue feeds from the M441 input modules 21 and 22 form an actively balanced input which provides the necessary longitudinal balance characteristics The input amplifier is capable of handling an input level up to +l8dBm without over load The amplifier level control is located after the preamplifier _ This control maybe extended via pins and 8 to permit the adjustment of the amplifier output level up to distance of 10 feet This external control operates in series with the control located on the module For this external control type of operation, the module level control should remain in the full clockwise position. 23 forms the driver amplifier for the output power transistor 03 through Q6 _ The output signal is coupled through to pinS _ CR3 to CR6 form the overdrive protection circuit to prevent excessive power dissipation if the amplifier is inadvertently shorted while signal i5 present 01 and Q2 form regulator circuit which provides the bias voltage (approximately 10V to pin of z1, 22 and 23) The amplifier will operate from nominal 24 to 36 Vdc unregulated supply which has the negative side on the common terminal The unregulated dc voltage i5 applied to pin X and fed through fuse Fl and polarity reversing protection diode CRI
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._

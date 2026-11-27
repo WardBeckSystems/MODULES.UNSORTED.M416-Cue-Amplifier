@@ -1,0 +1,19 @@
+{
+ "module": "M416",
+ "source": {
+  "file": "MANUALS/1973 - M416 - P4.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.99,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The M416 watt cue amplifier provides three 20K ohm bridging inputs each of Which is isolated from one another In addition, sun input is provided which is intended to receive the cue feeds from the M441 input modules 21 and 22 form an actively balanced input which provides the necessary longitudinal balance characteristics The input amplifier is capable of handling an input level up to +l8dBm without over load The amplifier level control is located after the preamplifier _ This control maybe extended via pins and 8 to permit the adjustment of the amplifier output level up to distance of 10 feet This external control operates in series with the control located on the module For this external control type of operation, the module level control should remain in the full clockwise position. 23 forms the driver amplifier for the output power transistor 03 through Q6 _ The output signal is coupled through to pinS _ CR3 to CR6 form the overdrive protection circuit to prevent excessive power dissipation if the amplifier is inadvertently shorted while signal i5 present 01 and Q2 form regulator circuit which provides the bias voltage (approximately 10V to pin of z1, 22 and 23) The amplifier will operate from nominal 24 to 36 Vdc unregulated supply which has the negative side on the common terminal The unregulated dc voltage i5 applied to pin X and fed through fuse Fl and polarity reversing protection diode CRI"
+   ]
+  }
+ ]
+}
