@@ -1,16 +1,14 @@
-# M416 Cue Amplifier · Unsorted
+# M416 Cue Amplifier · Amplifiers
 
 Ward-Beck Systems M416, 1973|6. Wiki page: [M416 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M416.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 35 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 22 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 25 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 34 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 23 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 4 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 24 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 36 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -37,8 +35,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1r4MBB9SVgckd4l9GgXmvQ-1HwZVin39L/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1r4MBB9SVgckd4l9GgXmvQ-1HwZVin39L" width="240" alt="1973 - M416 - DOC - 16-03-003 - THICK BLACK PLEXIGLASS TYPE.jpg"></a><br><sub>1973|6 · DOC - 16-03-003 - THICK BLACK PLEXIGLASS TYPE · <a href="MECHANICAL/1973%20-%20M416%20-%20DOC%20-%2016-03-003%20-%20THICK%20BLACK%20PLEXIGLASS%20TYPE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/17h47_vOXSy8ha77Pl8Qz9AtHecFp9O1r/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=17h47_vOXSy8ha77Pl8Qz9AtHecFp9O1r" width="240" alt="1973 - M416 - DOC - 416-03-003 - THICK BLACK PLEXIGLASS TYPE.jpg"></a><br><sub>1973|6 · DOC - 416-03-003 - THICK BLACK PLEXIGLASS TYPE · <a href="MECHANICAL/1973%20-%20M416%20-%20DOC%20-%20416-03-003%20-%20THICK%20BLACK%20PLEXIGLASS%20TYPE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1973 - 416-03-002 - ESCUTCHEON - DRN DPS - ISS 1 (2).jpg`, `1973 - 416-03-002 - ESCUTCHEON - DRN DPS - ISS 1.jpg`, `1973 - 416-03-003 - SWITCH MOUNTING PLATE - DRN DPS - ISS 1.jpg`
-
 ## 3-D model
 
 [`MECHANICAL/M416.stl`](MECHANICAL/M416.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M416)
@@ -56,13 +52,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUGFudldQeDdXQm8/view?resourcekey=0-8dvpgbiAGOtZlyCpgYzEkA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUGFudldQeDdXQm8&resourcekey=0-8dvpgbiAGOtZlyCpgYzEkA" width="240" alt="1973 - M416 - 412-02-003 - PLACES GIVEN ANGLES.jpg"></a><br><sub>1973|6 · 412-02-003 - PLACES GIVEN ANGLES · <a href="SCHEMATICS/1973%20-%20M416%20-%20412-02-003%20-%20PLACES%20GIVEN%20ANGLES%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKV3htZnR1aVhxNFE/view?resourcekey=0-_bXV2YmDvzA0Q8jhufhqgw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKV3htZnR1aVhxNFE&resourcekey=0-_bXV2YmDvzA0Q8jhufhqgw" width="240" alt="1973 - M416 - 416-02-001 (2).jpg"></a><br><sub>1973|6 · 416-02-001 (2) · <a href="SCHEMATICS/1973%20-%20M416%20-%20416-02-001%20(2)%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1973 - 3-102-06-001 - CUE AMPLIFIER PCB LAYOUT - DRN DGS - ISS 2.jpg`, `1973 - 416-02-001 - CUE AMPLIFIER SCHEMATIC - DRN DGS - ISS 1.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M416 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -85,8 +77,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKR3E3eElUZHlGTzQ/view?resourcekey=0-p_0dOu-3YlzQX3bCOihvGA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKR3E3eElUZHlGTzQ&resourcekey=0-p_0dOu-3YlzQX3bCOihvGA" width="240" alt="1973 - M416 - P8.jpg"></a><br><sub>1973|6 · P8</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNTM2cFNTLUlla2M/view?resourcekey=0-drP8L57W4QdaIHEMm2inXg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNTM2cFNTLUlla2M&resourcekey=0-drP8L57W4QdaIHEMm2inXg" width="240" alt="1973 - M416 - P9.jpg"></a><br><sub>1973|6 · P9</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/11nk-lYD_mbrHst_Yzl3pHO1uQI_jii9O/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=11nk-lYD_mbrHst_Yzl3pHO1uQI_jii9O" width="240" alt="19xx - M416 - DOC - Scan_20210323.jpg"></a><br><sub>19xx - M416 - DOC - Scan_20210323</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - M416 - M416 (2).jpg`, `19xx - M416 - M416 Cue Amplifier Instruction Manual Index.jpg`, `19xx - M416 - M416.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -98,7 +88,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1973 - M416 - 416-02-001 (2).kicad_sch](KICAD/1973%20-%20M416%20-%20416-02-001%20(2).kicad_sch)
 - [1973 - M416 - 416-02-001.kicad_sch](KICAD/1973%20-%20M416%20-%20416-02-001.kicad_sch)
 - [M416.kicad_sym](KICAD/M416.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
