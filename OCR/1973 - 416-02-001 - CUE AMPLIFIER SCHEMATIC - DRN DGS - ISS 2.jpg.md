@@ -1,5 +1,5 @@
 # 1973 - 416-02-001 - CUE AMPLIFIER SCHEMATIC - DRN DGS - ISS 2.jpg
-Wiki page: [M416](../../../../PAGES/M416.md)
+Wiki page: [M416](../)
 
 
 - **Year:** 1973 (title block date)

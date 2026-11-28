@@ -1,6 +1,6 @@
 # M416 Cue Amplifier · Amplifiers
 
-Ward-Beck Systems M416, 1973|6. Wiki page: [M416 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M416.html)
+Ward-Beck Systems M416, 1973|6. Wiki page: [M416 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M416-Cue-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|

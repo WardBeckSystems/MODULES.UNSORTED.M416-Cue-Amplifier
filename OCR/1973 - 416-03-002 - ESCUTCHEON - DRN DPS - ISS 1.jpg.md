@@ -1,5 +1,5 @@
 # 1973 - 416-03-002 - ESCUTCHEON - DRN DPS - ISS 1.jpg
-Wiki page: [M416](../../../../PAGES/M416.md)
+Wiki page: [M416](../)
 
 
 - **Year:** 1973 (title block date)

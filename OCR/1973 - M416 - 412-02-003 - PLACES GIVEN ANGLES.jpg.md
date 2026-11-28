@@ -1,5 +1,5 @@
 # 1973 - M416 - 412-02-003 - PLACES GIVEN ANGLES.jpg
-Wiki page: [M416](../../../../PAGES/M416.md)
+Wiki page: [M416](../)
 
 
 - **Year:** 1973 (module estimate (labelled))

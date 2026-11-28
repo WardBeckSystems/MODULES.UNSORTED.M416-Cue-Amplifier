@@ -1,5 +1,5 @@
 # 19xx - M416 - M416 Cue Amplifier Instruction Manual Index.jpg
-Wiki page: [M416](../../../../PAGES/M416.md)
+Wiki page: [M416](../)
 
 
 - **Year:** unknown (title block (read by eye))

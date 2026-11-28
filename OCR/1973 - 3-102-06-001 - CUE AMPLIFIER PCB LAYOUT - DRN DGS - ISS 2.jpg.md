@@ -1,5 +1,5 @@
 # 1973 - 3-102-06-001 - CUE AMPLIFIER PCB LAYOUT - DRN DGS - ISS 2.jpg
-Wiki page: [M416](../../../../PAGES/M416.md)
+Wiki page: [M416](../)
 
 
 - **Year:** 1973 (title block date)
