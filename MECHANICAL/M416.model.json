@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M416",
- "repo": "MODULES.UNSORTED.M416-Cue-Amplifier",
+ "repo": "MODULES.AMPLIFIERS.M416-Cue-Amplifier",
  "title": "Cue Amplifier",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",

@@ -54,7 +54,7 @@ B3-102-06-001
 
 ```json
 {
- "file": "Modules/UNSORTED/M416/MANUALS/19xx - M416 - M416 Cue Amplifier Instruction Manual Index.jpg",
+ "file": "Modules/AMPLIFIERS/M416/MANUALS/19xx - M416 - M416 Cue Amplifier Instruction Manual Index.jpg",
  "sha256": "fcc66905a0a0e850a5bc3735bebfddbdc7925939fc49fa4f0cf2cbe27c4a87d8",
  "kind": "module",
  "models": [
